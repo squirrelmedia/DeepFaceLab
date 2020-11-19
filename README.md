@@ -29,14 +29,14 @@ More than 95% of deepfake videos are created with DeepFaceLab.
 
 DeepFaceLab is used by such popular youtube channels as
 
-|![](doc/youtube_icon.png) [VFXChris Ume](https://www.youtube.com/channel/UCGf4OlX_aTt8DlrgiH3jN3g/videos)|![](doc/youtube_icon.png) [Sham00k](https://www.youtube.com/channel/UCZXbWcv7fSZFTAZV4beckyw/videos)|
+|![](doc/youtube_icon.png) [Ctrl Shift Face](https://www.youtube.com/channel/UCKpH0CKltc73e4wh0_pgL3g)|![](doc/youtube_icon.png) [VFXChris Ume](https://www.youtube.com/channel/UCGf4OlX_aTt8DlrgiH3jN3g/videos)|
 |---|---|
 
-|![](doc/youtube_icon.png) [Collider videos](https://www.youtube.com/watch?v=A91P2qtPT54&list=PLayt6616lBclvOprvrC8qKGCO-mAhPRux)|![](doc/youtube_icon.png) [iFake](https://www.youtube.com/channel/UCC0lK2Zo2BMXX-k1Ks0r7dg/videos)|
-|---|---|
-
-|![](doc/youtube_icon.png) [NextFace](https://www.youtube.com/channel/UCFh3gL0a8BS21g-DHvXZEeQ/videos)|![](doc/youtube_icon.png) [Futuring Machine](https://www.youtube.com/channel/UCC5BbFxqLQgfnWPhprmQLVg)|![](doc/youtube_icon.png) [RepresentUS](https://www.youtube.com/channel/UCRzgK52MmetD9aG8pDOID3g)|
+|![](doc/youtube_icon.png) [Sham00k](https://www.youtube.com/channel/UCZXbWcv7fSZFTAZV4beckyw/videos)|![](doc/youtube_icon.png) [Collider videos](https://www.youtube.com/watch?v=A91P2qtPT54&list=PLayt6616lBclvOprvrC8qKGCO-mAhPRux)|![](doc/youtube_icon.png) [iFake](https://www.youtube.com/channel/UCC0lK2Zo2BMXX-k1Ks0r7dg/videos)|
 |---|---|---|
+
+|![](doc/youtube_icon.png) [NextFace](https://www.youtube.com/channel/UCFh3gL0a8BS21g-DHvXZEeQ/videos)|![](doc/youtube_icon.png) [Futuring Machine](https://www.youtube.com/channel/UCC5BbFxqLQgfnWPhprmQLVg)|
+|---|---|
 
 </td></tr>
 
@@ -137,22 +137,13 @@ DeepFaceLab is used by such popular youtube channels as
 
 <tr><td colspan=2 align="center">
 
-## Manipulate politicians speech
-(requires a skill in video editors such as *Adobe After Effects* or *Davinci Resolve*)
+## Change the lip movement of politicians*
 
-<img src="doc/political_speech1.jpg" align="center">
+<img src="doc/political_speech.jpg" align="center">
 
 ![](doc/youtube_icon.png) https://www.youtube.com/watch?v=2Z1oA3GYPaY
 
-
-<img src="doc/political_speech2.jpg" align="center">
-
-![](doc/youtube_icon.png) https://www.youtube.com/watch?v=sbFHhpYU15w
-
-<img src="doc/political_speech3.jpg" align="center">
-
-![](doc/youtube_icon.png) https://www.youtube.com/watch?v=ERQlaJ_czHU
-
+\* also requires a skill in video editors such as *Adobe After Effects* or *Davinci Resolve*
 </td></tr>
 <tr><td colspan=2 align="center">
 
@@ -189,7 +180,7 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 </td></tr>
 
 <tr><td align="right">
-<a href="https://tinyurl.com/y6npm2su">Windows (magnet link)</a>
+<a href="https://pastebin.com/LLysqZpY">Windows (magnet link)</a>
 </td><td align="center">Last release. Use torrent client to download.</td></tr>
 
 <tr><td align="right">
@@ -233,12 +224,12 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 </td><td align="center">How to create the right faceset</td></tr>
 
 <tr><td align="right">
-<a href="https://mrdeepfakes.com/forums/thread-guide-deepfacelab-google-colab-tutorial">Google Colab guide</a>
-</td><td align="center">Guide how to train the fake on Google Colab</td></tr>
+<a href="https://mrdeepfakes.com/forums/thread-deepfacelab-2-0-compositing-in-davinci-resolve-vegas-pro-and-after-effects">Google Colab guide</a>
+</td><td align="center">To achieve the highest quality, compose deepfake manually in video editors such as Davinci Resolve or Adobe AfterEffects</td></tr>
 
 <tr><td align="right">
-<a href="https://mrdeepfakes.com/forums/thread-deepfacelab-2-0-compositing-in-davinci-resolve-vegas-pro-and-after-effects">Compositing</a>
-</td><td align="center">To achieve the highest quality, compose deepfake manually in video editors such as Davinci Resolve or Adobe AfterEffects</td></tr>
+<a href="https://mrdeepfakes.com/forums/thread-guide-deepfacelab-google-colab-tutorial">Compositing</a>
+</td><td align="center">Guide how to train the fake on Google Colab</td></tr>
 
 <tr><td align="right">
 <a href="https://mrdeepfakes.com/forums/thread-deepfacelab-2-0-discussion-tips-suggestions">Discussion and suggestions</a>
@@ -277,7 +268,7 @@ Unfortunately, there is no "make everything ok" button in DeepFaceLab. You shoul
 </td><td align="center">Don't forget to hide your phone number</td></tr>
 
 <tr><td align="right">
-<a href="https://t.me/joinchat/ElkhqkzB6uqyjCzoXwv3gg">telegram (English only)</a>
+<a href="https://t.me/DeepFaceLab_official_en">telegram (English only)</a>
 </td><td align="center">Don't forget to hide your phone number</td></tr>
 
 <tr><td align="right">
@@ -317,7 +308,7 @@ QQ 951138799
 </td></tr>
 
 <tr><td colspan=2 align="center">
-<a href="https://www.paypal.com/paypalme/DeepFaceLab">Donate via Paypal</a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=lepersorium@gmail.com&lc=US&no_note=0&item_name=Support+DeepFaceLab&cn=&curency_code=USD&bn=PP-DonationsBF:btn_donateCC_LG.gif:NonHosted">Donate via Paypal</a>
 </td></tr>
 
 <tr><td colspan=2 align="center">
